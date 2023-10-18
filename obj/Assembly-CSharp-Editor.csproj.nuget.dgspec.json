@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp-Editor.csproj": {}
+  },
+  "projects": {
+    "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp-Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp-Editor.csproj",
+        "projectName": "Assembly-CSharp-Editor",
+        "projectPath": "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp-Editor.csproj",
+        "packagesPath": "/Users/oguz/.nuget/packages/",
+        "outputPath": "/Users/oguz/Documents/UnityProjects/skateboard battle/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oguz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp-firstpass.csproj": {
+                "projectPath": "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp-firstpass.csproj"
+              },
+              "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp.csproj": {
+                "projectPath": "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp-firstpass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp-firstpass.csproj",
+        "projectName": "Assembly-CSharp-firstpass",
+        "projectPath": "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp-firstpass.csproj",
+        "packagesPath": "/Users/oguz/.nuget/packages/",
+        "outputPath": "/Users/oguz/Documents/UnityProjects/skateboard battle/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oguz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp.csproj",
+        "packagesPath": "/Users/oguz/.nuget/packages/",
+        "outputPath": "/Users/oguz/Documents/UnityProjects/skateboard battle/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/oguz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp-firstpass.csproj": {
+                "projectPath": "/Users/oguz/Documents/UnityProjects/skateboard battle/Assembly-CSharp-firstpass.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
